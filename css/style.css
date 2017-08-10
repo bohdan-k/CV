@@ -17,13 +17,7 @@ div {
     height: 297mm;
   width: 210mm;
     padding: 1cm;
-        background: url(../images/PEnJm.png) repeat, -moz-radial-gradient(center, ellipse cover, rgba(196,229,255,0.6) 0%, rgba(196,229,255,0.6) 46%, rgba(125,177,255,0.6) 100%), url(../images/PEnJm.png) repeat;
-background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(196,229,255,0.6)), color-stop(46%, rgba(196,229,255,0.6)), color-stop(100%, rgba(125,177,255,0.6))), url(../images/PEnJm.png) repeat;
-background: -webkit-radial-gradient(center, ellipse cover, rgba(196,229,255,0.6) 0%, rgba(196,229,255,0.6) 46%, rgba(125,177,255,0.6) 100%), url(../images/PEnJm.png) repeat;
-background: -o-radial-gradient(center, ellipse cover, rgba(196,229,255,0,6) 0%, rgba(196,229,255,0,6) 46%, rgba(125,177,255,0,6) 100%), url(../images/PEnJm.png) repeat;
-background: -ms-radial-gradient(center, ellipse cover, rgba(196,229,255,0.6) 0%, rgba(196,229,255,0.6) 46%, rgba(125,177,255,0.6) 100%), url(../images/PEnJm.png) repeat;
-background: radial-gradient(ellipse at center, rgba(196,229,255,0.6) 0%, rgba(196,229,255,0.6) 46%, rgba(125,177,255,0.6) 100%), url(../images/PEnJm.png) repeat;
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c4e5ff', endColorstr='#7db1ff', GradientType=1)
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(229, 244, 255, 0.6) 0%, rgba(229, 244, 255, 0.6) 46%, rgba(125,177,255,0.6) 100%), url(../images/PEnJm.png) repeat;
 }
 
 #A4> div {
