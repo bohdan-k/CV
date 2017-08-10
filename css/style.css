@@ -17,7 +17,7 @@ div {
     height: 297mm;
   width: 210mm;
     padding: 1cm;
-    background: -webkit-radial-gradient(center, ellipse cover, rgba(229, 244, 255, 0.6) 0%, rgba(229, 240, 255, 0.6) 46%, rgba(229, 240, 255, 0.6) 100%), url(../images/PEnJm.png) repeat;
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(229, 244, 255, 0.8) 0%, rgba(229, 240, 255, 0.8) 46%, rgba(229, 240, 255, 0.8) 100%), url(../images/PEnJm.png) repeat;
 }
 
 #A4> div {
